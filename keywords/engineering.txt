@@ -1,0 +1,33 @@
+# Engineering Domain Keywords
+# Generated keyword list for Engineering domain analysis
+
+algorithm
+analysis
+architecture
+automation
+calibration
+circuit
+computation
+control
+design
+development
+efficiency
+embedded
+framework
+implementation
+integration
+manufacture
+measurement
+modeling
+optimization
+performance
+processing
+protocol
+reliability
+simulation
+specification
+system
+testing
+validation
+verification
+workflow

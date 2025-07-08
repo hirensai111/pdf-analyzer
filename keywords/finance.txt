@@ -1,0 +1,33 @@
+# Finance Domain Keywords
+# Generated keyword list for Finance domain analysis
+
+asset
+audit
+balance sheet
+bond
+cash flow
+compliance
+debt
+derivatives
+dividend
+equity
+financial modeling
+financial statement
+futures
+income statement
+inflation
+interest rate
+investment
+liability
+loss
+market
+options
+portfolio
+profit
+regulation
+revenue
+risk management
+securities
+stock
+trading
+valuation

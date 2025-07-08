@@ -1,0 +1,33 @@
+# Technical Domain Keywords
+# Generated keyword list for Technical domain analysis
+
+API
+DevOps
+algorithm
+architecture
+cloud computing
+coding
+data structure
+database
+debugging
+deployment
+design pattern
+development
+documentation
+encryption
+framework
+hardware
+interface
+library
+microservices
+network
+optimization
+performance
+programming
+protocol
+scalability
+security
+server
+software
+testing
+version control

@@ -1,0 +1,33 @@
+# Legal Domain Keywords
+# Generated keyword list for Legal domain analysis
+
+agreement
+arbitration
+attorney
+breach
+case law
+compliance
+constitution
+contract
+copyright
+counsel
+damages
+defendant
+evidence
+intellectual property
+judicial
+jurisdiction
+liability
+license
+litigation
+mediation
+negligence
+patent
+plaintiff
+precedent
+regulation
+settlement
+statute
+testimony
+trademark
+verdict

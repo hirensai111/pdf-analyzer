@@ -1,0 +1,33 @@
+# Data Science Domain Keywords
+# Generated keyword list for Data Science domain analysis
+
+algorithm
+analytics
+artificial intelligence
+bias
+big data
+classification
+clustering
+computer vision
+cross validation
+data mining
+dataset
+deep learning
+dimensionality reduction
+ensemble methods
+feature engineering
+machine learning
+modeling
+natural language processing
+neural network
+optimization
+overfitting
+prediction
+regression
+reinforcement learning
+statistics
+supervised learning
+time series
+underfitting
+unsupervised learning
+variance
