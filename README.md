@@ -105,6 +105,33 @@ The analyzer includes pre-built keyword sets for various domains:
 | **Finance** | 30+ | investment, portfolio, risk management, derivatives |
 | **Technical** | 30+ | software, API, framework, debugging, architecture |
 
+## 🛠️ Built With
+
+### Core Technologies
+- **[Python](https://python.org/)** - Main programming language
+- **[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)** - Modern GUI framework with dark theme
+- **[PyMuPDF (fitz)](https://github.com/pymupdf/PyMuPDF)** - PDF processing and text extraction
+- **[Pandas](https://pandas.pydata.org/)** - Data manipulation and analysis
+
+### PDF Processing & Analysis
+- **[Camelot](https://github.com/camelot-dev/camelot)** - Advanced table extraction from PDFs
+- **[ReportLab](https://www.reportlab.com/)** - Professional PDF generation and reports
+- **[Tabula-py](https://github.com/chezou/tabula-py)** - Alternative table extraction
+
+### Image & Data Processing
+- **[OpenCV](https://opencv.org/)** - Computer vision for image processing
+- **[NumPy](https://numpy.org/)** - Numerical computing
+- **[Pillow](https://pillow.readthedocs.io/)** - Image processing library
+
+### System & Utilities
+- **[Threading](https://docs.python.org/3/library/threading.html)** - Multi-threaded processing
+- **[Pathlib](https://docs.python.org/3/library/pathlib.html)** - Modern file path handling
+- **[JSON](https://docs.python.org/3/library/json.html)** - Configuration and data storage
+
+### Optional Dependencies
+- **[Tesseract](https://github.com/tesseract-ocr/tesseract)** - OCR engine for scanned documents
+- **[Ghostscript](https://www.ghostscript.com/)** - PDF rendering support
+
 ## ⚙️ Configuration
 
 ### Analysis Options
