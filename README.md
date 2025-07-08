@@ -15,7 +15,7 @@ A powerful, domain-specific PDF analysis tool with a modern GUI and command-line
 ## 🖼️ Screenshots
 
 ### Main GUI Interface
-![PDF Analyzer GUI](C:\Users\hvellanki\Desktop\Pdf_Summarizer\gui.png)
+![PDF Analyzer GUI](gui.png)
 *Modern 3-column interface: Upload | Domain & Keywords | Analysis Control*
 
 ## 🚀 Quick Start
